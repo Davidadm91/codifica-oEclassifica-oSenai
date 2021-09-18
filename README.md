@@ -1,0 +1,2 @@
+# codifica-oEclassifica-oSenai
+classificaçãoSenai
